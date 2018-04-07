@@ -2,6 +2,8 @@
 
 https://www.kaggle.com/lishulong
 
+https://www.kaggle.com/ntnu-testimon/paysim1
+
 # 什么是数据分析？
 
 > analysis of data is a process of inspecting ,cleansing ,transforming ,and modeling data with the goal of discovering usefull information ,suggesting conclusions and supporting decision-making
